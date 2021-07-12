@@ -1,5 +1,5 @@
 # Yiddish keyboard for macOS
-This is a modified version of the Yiddish keyboard for macOS, originally designed by Isaac Bleaman.
+This is a modified version of the Yiddish keyboard for macOS, originally designed by [Isaac Bleaman](https://github.com/ibleaman).
 
 This version contains both combining and precomposed versions of the characters, combining the Yiddish Klal and Yiddish Klal Ligatur keyboards made by Bleaman. 
 
